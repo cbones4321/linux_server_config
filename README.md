@@ -6,7 +6,7 @@ i. **IP Address**  52.25.29.209 / **SSH Port** 2200
 
 ii. **URL** http://ec2-52-25-29-209.us-west-2.compute.amazonaws.com
 
-iii. **Applicatins that are installed/Configurations Made**
+iii. **Applications that are installed/Configurations Made**
   1. Added a user 'Grader' to the server
   2. Gave the user sudo access
   3. Updated current package list and installed them.
